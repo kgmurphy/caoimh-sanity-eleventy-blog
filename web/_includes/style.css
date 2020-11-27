@@ -10,7 +10,7 @@ body {
   padding-left: 12.5%;
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: #000;
-  color: #fff;
+  color: hotpink;
   max-width: 1400px;
   counter-reset: sidenote-counter;
 }
